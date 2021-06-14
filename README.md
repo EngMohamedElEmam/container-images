@@ -6,7 +6,7 @@ If you need to access these images for your deployments. Use this token - 524ea0
 Commands Used
 Create docker images using build
 
-    docker build . -t containers-demo:v1
+    docker build . -t hello-world:v1
 
 Tag the images to the package registry path
 
